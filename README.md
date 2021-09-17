@@ -3,7 +3,7 @@ Targetly is a powerful and pure Swift implemented library for personalisation of
 
 ## Requirements
 * iOS 10.0+
-* Swift 5.0+
+* Swift 5.0++
 
 ## Installation
 ### CocoaPods
